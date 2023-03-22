@@ -11,7 +11,7 @@ export default function Header() {
   <Container position='static'>
     <Toolbar>
         <img src={logo} alt="logo" width={"50"}/>
-        <h1>CodePen</h1>
+        <h1>Mcsharp</h1>
     </Toolbar>
   </Container>
   )
